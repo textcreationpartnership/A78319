@@ -1,0 +1,525 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the names of the divines approved of by the House of Commons, for each severall county in this kingdome of England and Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78319</idno>
+            <idno type="STC">Wing C1391</idno>
+            <idno type="STC">Thomason E144_23</idno>
+            <idno type="STC">ESTC R16563</idno>
+            <idno type="EEBO-CITATION">99860052</idno>
+            <idno type="PROQUEST">99860052</idno>
+            <idno type="VID">112159</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78319)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112159)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E144[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the names of the divines approved of by the House of Commons, for each severall county in this kingdome of England and Wales.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Fawcet, for Thomas Bankes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at the end: April 9, 1642.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Clergy --  Early works to 1800.</term>
+               <term>Clergy --  England --  Registers --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112159:1"/>
+            <pb facs="tcp:112159:1" rendition="simple:additions"/>
+            <p>A CATALOGVE OF THE NAMES Of the Divines approved of by the Houſe of COMMONS, for each ſeverall Coun<g ref="char:EOLhyphen"/>ty in this Kingdome of <hi>England</hi> and <hi>Wales.</hi>
+            </p>
+            <figure>
+               <figDesc>London on the Thames?</figDesc>
+            </figure>
+            <p>LONDON, Printed by <hi>T. Fawcet,</hi> for <hi>Thomas Bankes,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catalogue">
+            <pb facs="tcp:112159:2"/>
+            <pb facs="tcp:112159:2"/>
+            <head>A Catalogue of the Names of the Divines appro<g ref="char:EOLhyphen"/>ved of by the Houſe of Com<g ref="char:EOLhyphen"/>mons for each County here under written.</head>
+            <div type="part">
+               <list>
+                  <head>
+                     <hi>For the County of</hi> Bedford.</head>
+                  <item>
+                     <hi>MAſter</hi> Thomas Dillingham <hi>of</hi> Deane</item>
+                  <item>
+                     <hi>Mr.</hi> Oliver Boles <hi>of</hi> Sutton.</item>
+               </list>
+               <list>
+                  <head>Buckinghamſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Wilkinſon <hi>of</hi> Wadſden.</item>
+                  <item>
+                     <hi>Mr.</hi> Valentine <hi>of</hi> Chauſan.</item>
+               </list>
+               <list>
+                  <head>Berkeſhire.</head>
+                  <item>
+                     <hi>Doctor</hi> Twiſt <hi>of</hi> Newberry.</item>
+                  <item>
+                     <hi>Mr.</hi> Rayner <hi>of</hi> Milton.</item>
+               </list>
+               <list>
+                  <head>Cornewall.</head>
+                  <item>
+                     <hi>Mr.</hi> Gammon <hi>of</hi> Mogen.</item>
+                  <item>
+                     <hi>Mr.</hi> Hix <hi>of</hi> Lawrick.</item>
+               </list>
+               <list>
+                  <head>Cumberland.</head>
+                  <item>
+                     <hi>Doctor</hi> Hoile.</item>
+                  <item>
+                     <hi>Mr.</hi> Bridge.</item>
+               </list>
+               <list>
+                  <head>Cambridge.</head>
+                  <item>
+                     <hi>Doctor</hi> Wincob.</item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Goodwin, <hi>A</hi> New England <hi>man.</hi>
+                  </item>
+               </list>
+               <pb facs="tcp:112159:3"/>
+               <list>
+                  <head>Cheſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Leigh.</item>
+                  <item>
+                     <hi>Mr.</hi> Caſe.</item>
+               </list>
+               <list>
+                  <head>Derbyſhiere.</head>
+                  <item>
+                     <hi>Doctor</hi> Lane <hi>of</hi> Bennit <hi>Colledge in</hi> Cambridge.</item>
+                  <item>
+                     <hi>Doctor</hi> Googe <hi>of</hi> Black-Fryers, London.</item>
+               </list>
+               <list>
+                  <head>Devonſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Pine <hi>of</hi> Deane Forreſt.</item>
+                  <item>
+                     <hi>Mr.</hi> VVhitten <hi>of</hi> Morton.</item>
+               </list>
+               <list>
+                  <head>Aprill 23. 1642. <hi>Cambridge Univerſitie.</hi>
+                  </head>
+                  <item>
+                     <hi>Doctor</hi> Bromrick <hi>of</hi> Katherine Hall.</item>
+                  <item>
+                     <hi>Doctor</hi> VVard <hi>of</hi> Sidney.</item>
+               </list>
+               <list>
+                  <head>Dorſetſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Iohn VVhite <hi>of</hi> Dorcheſter.</item>
+                  <item>
+                     <hi>Mr.</hi> Edward Peale <hi>of</hi> Compton.</item>
+               </list>
+               <list>
+                  <head>Dureſme.</head>
+                  <item>
+                     <hi>Doctor</hi> Genniſon.</item>
+                  <item>
+                     <hi>Mr.</hi> Morton.</item>
+               </list>
+               <list>
+                  <head>Eſſex.</head>
+                  <item>
+                     <hi>Mr.</hi> Stephen Marſhall <hi>of</hi> Pinchingreene.</item>
+                  <item>
+                     <hi>Mr.</hi> Obediah Sedgwick <hi>of</hi> Cogſand</item>
+               </list>
+               <list>
+                  <head>Yorke.</head>
+                  <item>
+                     <hi>Mr.</hi> Levill <hi>of</hi> Rippon.</item>
+                  <item>
+                     <hi>Mr.</hi> Michael Thwaite <hi>of</hi> Cherrey Hinton.</item>
+               </list>
+               <list>
+                  <head>Gloceſter.</head>
+                  <item>
+                     <hi>Mr.</hi> VVilliam Mew <hi>of</hi> Eſtringers.</item>
+                  <item>
+                     <hi>Mr.</hi> Iohn Danninge.</item>
+               </list>
+               <list>
+                  <head>Huntingtonſhiere.</head>
+                  <item>
+                     <hi>Mr.</hi> Thomas Batthurſt <hi>of one of the</hi> Ortons.</item>
+                  <item>
+                     <hi>Mr.</hi> Philip Nye, <hi>Chaplaine to the Lord</hi> Mandevill.</item>
+               </list>
+               <pb facs="tcp:112159:3"/>
+               <list>
+                  <head>Herefordſhiere.</head>
+                  <item>
+                     <hi>Mr.</hi> John Greene <hi>of</hi> Bencome.</item>
+                  <item>
+                     <hi>Mr:</hi> Stanley Gower <hi>of</hi> Bramton Bryant.</item>
+               </list>
+               <list>
+                  <head>Hartfordſhire.</head>
+                  <item>
+                     <hi>Doctor</hi> Smith <hi>of</hi> Berkway.</item>
+                  <item>
+                     <hi>Doctor</hi> Burges <hi>of</hi> VVatno.</item>
+               </list>
+               <list>
+                  <head>Kent.</head>
+                  <item>
+                     <hi>Mr.</hi> VVilſon.</item>
+                  <item>
+                     <hi>Mr.</hi> Francis Taylor.</item>
+               </list>
+               <list>
+                  <head>Lincolne</head>
+                  <item>
+                     <hi>Mr.</hi> Anthony Tuckey <hi>of</hi> Boſton.</item>
+                  <item>
+                     <hi>Mr.</hi> Coleman <hi>of</hi> Blinton.</item>
+               </list>
+               <list>
+                  <head>Lancaſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Charles Earle <hi>of</hi> VVinnick,</item>
+                  <item>
+                     <hi>Mr.</hi> Richard Herick <hi>of</hi> Mancheſter.</item>
+               </list>
+               <list>
+                  <head>Leiceſterſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Clayton <hi>of</hi> Shovell.</item>
+                  <item>
+                     <hi>Mr.</hi> Gibbes <hi>of</hi> Leiceſter.</item>
+               </list>
+               <list>
+                  <head>Middleſex.</head>
+                  <item>
+                     <hi>Doctor</hi> Caleb Downy <hi>of</hi> Hackney.</item>
+                  <item>
+                     <hi>Mr.</hi> Burroughs, <hi>Preacher of</hi> Stephney.</item>
+               </list>
+               <list>
+                  <head>London,</head>
+                  <item>Edmund Calamy <hi>of</hi> Aldermanbury,</item>
+                  <item>
+                     <hi>Mr.</hi> Walker <hi>of St.</hi> Iohns <hi>Pariſh.</hi>
+                  </item>
+                  <item>
+                     <hi>Mr.</hi> Carroll <hi>of</hi> Lincolnes-Inne.</item>
+                  <item>
+                     <hi>Mr.</hi> Seaman.</item>
+               </list>
+               <list>
+                  <head>Munmoth.</head>
+                  <item>
+                     <hi>Doctor</hi> Harris, <hi>Warden of</hi> VVincheſter.</item>
+                  <item>
+                     <hi>Mr.</hi> Morbie.</item>
+               </list>
+               <pb facs="tcp:112159:4"/>
+               <list>
+                  <head>Northamptonſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Reynolds <hi>of</hi> Bramſon.</item>
+                  <item>
+                     <hi>Mr.</hi> Hill <hi>of</hi> Tichmarſh.</item>
+               </list>
+               <list>
+                  <head>Nottinghamſhire.</head>
+                  <item>
+                     <hi>Doctor</hi> Sanderſon <hi>of</hi> Bonthbie.</item>
+                  <item>
+                     <hi>Mr.</hi> Iohn Foxcraft.</item>
+               </list>
+               <list>
+                  <head>Northumberland.</head>
+                  <item>
+                     <hi>Mr.</hi> Iohn Iackſon <hi>of</hi> Grayes-Inne.</item>
+                  <item>
+                     <hi>Mr.</hi> William Carter <hi>of</hi> London.</item>
+               </list>
+               <list>
+                  <head>Northfolke.</head>
+                  <item>
+                     <hi>Mr.</hi> Iohn Acroſmith <hi>of</hi> Linne.</item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Thurrogood.</item>
+               </list>
+               <list>
+                  <head>Oxfordſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Robert Harris <hi>of</hi> Hanwell.</item>
+                  <item>
+                     <hi>Mr.</hi> Robert Croſſe <hi>of</hi> Lincolne <hi>Colledge.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <hi>Oxford</hi> Univerſitie.</head>
+                  <item>Iames <hi>Primate of</hi> Armath.</item>
+                  <item>
+                     <hi>Doctor</hi> Stiles <hi>Perſon of St.</hi> Georges <hi>neer the Bridge.</hi>
+                  </item>
+               </list>
+               <list>
+                  <head>Rutlandſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Samuell Gibſon <hi>of</hi> Burley.</item>
+                  <item>
+                     <hi>Mr.</hi> Whittakers.</item>
+               </list>
+               <list>
+                  <head>Surrey.</head>
+                  <item>
+                     <hi>Doctor</hi> Featley <hi>of</hi> Lambeth.</item>
+                  <item>
+                     <hi>Doctor</hi> Stanton <hi>of</hi> Kingſton.</item>
+               </list>
+               <list>
+                  <head>Staffordſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Francis Cooke <hi>of</hi> Yaxworth.</item>
+                  <item>
+                     <hi>Mr.</hi> Lightfoot <hi>of</hi> Aſhley.</item>
+               </list>
+               <list>
+                  <head>Salop.</head>
+                  <item>
+                     <hi>Mr.</hi> Sammuell Hildeiſham.</item>
+                  <item>
+                     <hi>Mr,</hi> Corbet <hi>of</hi> Martin <hi>Colledge.</hi>
+                  </item>
+               </list>
+               <pb facs="tcp:112159:4"/>
+               <list>
+                  <head>Southampton.</head>
+                  <item>
+                     <hi>Mr.</hi> Iohn Langley <hi>of</hi> Weſtendon.</item>
+                  <item>
+                     <hi>Mr.</hi> Chriſtopher Tiſdell <hi>of</hi> 
+                     <g ref="char:V">Ʋ</g>phuſban.</item>
+               </list>
+               <list>
+                  <head>Suffolke.</head>
+                  <item>
+                     <hi>Mr.</hi> Thomas Young <hi>of</hi> Stonemaſh.</item>
+                  <item>
+                     <hi>Mr.</hi> Iohn Philips <hi>of</hi> Rentall.</item>
+               </list>
+               <list>
+                  <head>Somerſetſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Samuell Creeke <hi>of</hi> Runton.</item>
+                  <item>
+                     <hi>Mr.</hi> Comet <hi>of</hi> Limmington.</item>
+               </list>
+               <list>
+                  <head>Suſſex.</head>
+                  <item>
+                     <hi>Mr.</hi> Benjamin Pickering <hi>of</hi> Eaſt Odeley.</item>
+                  <item>
+                     <hi>Mr.</hi> Nye <hi>of</hi> Chaphum.</item>
+               </list>
+               <list>
+                  <head>Weſtmerland.</head>
+                  <item>
+                     <hi>Mr.</hi> Henry Hall.</item>
+                  <item>
+                     <hi>Mr.</hi> Henry Hutton.</item>
+               </list>
+               <list>
+                  <head>Wiltſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Henry Scudder <hi>of</hi> Colingborne.</item>
+                  <item>
+                     <hi>Mr.</hi> Thomas Baily <hi>of</hi> Maningford.</item>
+               </list>
+               <list>
+                  <head>Worceſterſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Arthur Salloway <hi>of</hi> Seavenſtocke.</item>
+                  <item>
+                     <hi>Doctor</hi> Pridiax, <hi>Biſhop of</hi> Worceſter.</item>
+               </list>
+               <list>
+                  <head>Warwickſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Burges <hi>of</hi> Sutton Coleby.</item>
+                  <item>
+                     <hi>Mr.</hi> Vines <hi>of</hi> Weddington.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>Wales.</head>
+               <list>
+                  <head>Angleſey.</head>
+                  <item>
+                     <hi>Mr.</hi> Richard Burlye, <hi>Chaplaine to the Lord of</hi> Pe<g ref="char:EOLhyphen"/>terborough.</item>
+               </list>
+               <list>
+                  <head>Brednock.</head>
+                  <item>
+                     <hi>Doctor</hi> Temple <hi>of</hi> Batterſey.</item>
+               </list>
+               <list>
+                  <head>Cardigan.</head>
+                  <item>
+                     <hi>Mr.</hi> Chute <hi>of</hi> Lamber</item>
+               </list>
+               <pb facs="tcp:112159:5"/>
+               <list>
+                  <head>Carmarthenſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Nicholſon.</item>
+               </list>
+               <list>
+                  <head>Carnarvenſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Gattaker <hi>of</hi> Redriffe.</item>
+               </list>
+               <list>
+                  <head>Derby-ſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Richard Floid.</item>
+               </list>
+               <list>
+                  <head>Flintſhire,</head>
+                  <item>
+                     <hi>Doctor</hi> Chriſtopher Paſhley <hi>of</hi> Hollofell.</item>
+               </list>
+               <list>
+                  <head>Glamorganſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Hen. Toſer, <hi>Fellow of</hi> Exeter <hi>Colledge in</hi> Oxford</item>
+               </list>
+               <list>
+                  <head>Merionethſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Spurſto <hi>of</hi> London.</item>
+               </list>
+               <list>
+                  <head>Pembrokeſhire.</head>
+                  <item>
+                     <hi>Mr.</hi> Francis Channell.</item>
+               </list>
+               <list>
+                  <head>Radnockſhire.</head>
+                  <item>
+                     <hi>Doctor</hi> Hacket, <hi>of St.</hi> Andrewes Hollorne.</item>
+               </list>
+            </div>
+         </div>
+         <div type="declaration">
+            <opener>
+               <dateline>
+                  <date>Die Sabbati, <hi>9</hi> Aprill, <hi>1642.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THe Lords and Commons doe declare, that they intend a due and neceſſary reformation of the Government and Liturgy of the Church, and to take away nothing in ther one or other, but what ſhall be evill, and juſtly offenſive, or at leaſt unneceſſary and burthenſome: And for the better effecting thereof ſpeedily to have conſultation with Godly and learned Divines. And becauſe this will never of it ſelfe attain the end ſought therein, they will therfore uſe their ut<g ref="char:EOLhyphen"/>moſt endeavours to eſtabliſh learned and Preaching Mini<g ref="char:EOLhyphen"/>ſters, with a good and ſufficient maintenance throughout the whole Kingdom, wherein many dark Corners are miſerably deſtitute of the means of Salvation, and many poore Mini<g ref="char:EOLhyphen"/>ſters want neceſſary proviſion.</p>
+            <closer>
+               <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:112159:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
